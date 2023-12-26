@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aplicación con MQTT</string>
+    <string name="messageText">Conectándose al servicio MQTT...</string>
+    <string name="messageTextHint">Mensaje</string>
+</resources>
